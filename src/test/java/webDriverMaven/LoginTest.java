@@ -23,7 +23,10 @@ public class LoginTest {
 	public void doLogin() throws InterruptedException {
 		driver.get("http://google.com");
 		driver.findElement(By.name("q")).sendKeys("Selenium Testing");
+		
 		Thread.sleep(2000);
+		
+		// Sample code -----
 	}
 	
 	@AfterSuite
