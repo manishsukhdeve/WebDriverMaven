@@ -27,7 +27,7 @@ public class LoginTest {
 		Thread.sleep(2000);
 		
 		// 		Sample code -----
-		//		added new comment 
+		//		added new comment again
 	}
 	
 	@AfterSuite
